@@ -1,0 +1,16 @@
+import lab5library.py
+
+var stairstep =lab5library.makestep()
+print(stairstep)
+
+var makevertical = lab5library.vertical()
+print(makevertical)
+
+var makehorizantal = lab5library.horizantal()
+print(makehorizantal)
+
+var clearbacklight = lab5library.clearBacklight()
+print(clearbacklight)
+
+var randompixel = lab5library.displayRandomPixel()
+print(randompixel)
